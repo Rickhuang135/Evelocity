@@ -1,0 +1,9 @@
+radius = 0.07
+RPM = 5
+RPMmax = 3000
+Tmax = 25.00
+rotYaw = 2
+accforward = 0
+accsideways = 1
+Rerror = [-0.04, 0.08, 0.09]
+recordInterval = 50
